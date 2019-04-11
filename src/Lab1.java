@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+//written by Nick TenBrink
 public class Lab1 {
 
 	public static void main(String[] args) {
